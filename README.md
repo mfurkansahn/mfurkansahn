@@ -10,7 +10,7 @@ Skills: UNITY / BLENDER / C# / REACT / HTML / JS / CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   
-  <img rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="40" alt="github logo" />
    <img width="12" />       
 
 </div>
